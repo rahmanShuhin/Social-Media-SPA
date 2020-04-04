@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+}
+.box-1 {
+  background-color: lightgrey;
+  width: 70%;
+  border-right: 5px solid white;
+}
+ul li {
+  list-style: none;
+  background: tomato;
+  color: white;
+  padding: 2%;
+  margin: 2%;
+}
+.box-2 {
+  width: 30%;
+  background-color: lightcyan;
+}

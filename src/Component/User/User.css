@@ -1,0 +1,16 @@
+.user-box {
+  border: 2px solid black;
+  margin: 5% 10%;
+  padding: 5%;
+  background-color: white;
+}
+.user-box img {
+width: 150px;
+height: 150px;
+}
+.btn {
+  background-image: linear-gradient(to right, orange, yellow);
+  cursor: pointer;
+  padding: 2% 10%;
+  border: 1px solid gray;
+}
